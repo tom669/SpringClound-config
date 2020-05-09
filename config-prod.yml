@@ -1,1 +1,2 @@
-prod123
+config:
+  info: prod123
